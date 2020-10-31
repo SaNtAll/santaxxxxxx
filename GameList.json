@@ -12,7 +12,7 @@
         "GameName": "Murder Mystery"
     },
     "2041312716": {
-        "ScriptName": "Ragdoll-Engine.lua",
+        "ScriptName": "Ragdoll.lua",
         "GameName": "Ragdoll Engine."
     }
 }
